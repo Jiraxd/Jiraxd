@@ -4,7 +4,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiraxd&layout=compact)
 
-*^ Typescript is fun, I use C# only for private projects ^*
+*^ Typescript ^*
+*^ C# ^*
 
 
 ## Discord: j1r4
