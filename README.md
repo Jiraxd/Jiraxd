@@ -4,11 +4,15 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiraxd&layout=compact)
 
+Free time:
 *^ Typescript ^*
-
 *^ C# ^*
+
+Work:
+*^ Java ^*
+*^ Python ^*
 
 
 ## Discord: j1r4
-## [My WebSite](https://j1r4.vercel.app)
+## [My Website](https://j1r4.vercel.app)
 
