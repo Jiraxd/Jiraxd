@@ -4,11 +4,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiraxd&layout=compact)
 
-Free time:
 *^ Typescript ^*
-*^ C# ^*
-
-Work:
+*^ C# ^* - private repos :)
 *^ Java ^*
 *^ Python ^*
 
