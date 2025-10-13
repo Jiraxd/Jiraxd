@@ -11,5 +11,5 @@
 
 
 ## Discord: j1r4
-## [My Website](https://j1r4.vercel.app)
+## [My Website](https://j1r4.is-a.dev)
 
