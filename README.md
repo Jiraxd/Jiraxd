@@ -2,7 +2,7 @@
 
 *^ I commit a lot to private repos, trust me ^*
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Jiraxd&layout=compact)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Jiraxd&layout=compact&theme=tokyonight)
 
 *^ Typescript ^*
 *^ C# ^* - private repos :)
